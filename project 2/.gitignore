@@ -13,9 +13,6 @@ dist
 dist-ssr
 coverage
 *.local
-project2/node_modules/
-project2/dist/
-project2/.env
 
 /cypress/videos/
 /cypress/screenshots/
