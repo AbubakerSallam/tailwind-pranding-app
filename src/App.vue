@@ -46,7 +46,21 @@
 
   <section class="flex justify-center items-center mt-20 p-10">
     <div class="p-10 ml-10">
-      <h1 class="font-bold mb-6">مرحبا</h1>
+      <h1 class="font-bold mb-6">اشتري الان وادفع لاحقا</h1>
+      <p class="font-thin w-[14erm]">يمكنك الشراء والتحقق من جودة المنتج لمدة تصل الى 30 يوما.</p>
+      <BUtton class="border border-[#Af7452] text-[#Af7452] mt-5 py-2 px-5">تسوق الان</BUtton>
+    </div>
+    <div class="p-10 ml-10">
+      <h1 class="font-bold mb-6">نقاط ولاء نقدا</h1>
+      <p class="font-thin w-[14erm]">
+        يمكنك تجميع نقاطك عبر طلباتك الخاصة او رابط الاحالة الخاص بك.
+      </p>
+      <BUtton class="border border-[#Af7452] text-[#Af7452] mt-5 py-2 px-5">تسوق الان</BUtton>
+    </div>
+    <div class="p-10 ml-10">
+      <h1 class="font-bold mb-6">طرق دفع امنه</h1>
+      <p class="font-thin w-[14erm]">تستطيع الدفع بطرق 100% امنه سوا في التطبيق او على موقعنا.</p>
+      <BUtton class="border border-[#Af7452] text-[#Af7452] mt-5 py-2 px-5">تسوق الان</BUtton>
     </div>
   </section>
 </template>
