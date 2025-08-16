@@ -6,9 +6,9 @@
       <h1 class="">موضات</h1>
     </div>
     <div class="nav-images mt-5 flex justify-between">
-      <img src="./assets/person.svg" width="20" height="20" class="inline ml-5" />
-      <img src="./assets/cart.svg" width="20" height="20" class="inline ml-5" />
-      <img src="./assets/bag.svg" width="20" height="20" class="inline ml-5" />
+      <img src="/src/assets/person.svg" width="20" height="20" class="inline ml-5" />
+      <img src="/src/assets/cart.svg" width="20" height="20" class="inline ml-5" />
+      <img src="/src/assets/bag.svg" width="20" height="20" class="inline ml-5" />
     </div>
   </nav>
   <header class="mt-20 flex justify-around">
@@ -18,10 +18,10 @@
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod debitis deleniti libero sunt
         unde aut eaque repellendus.
       </p>
-      <img src="./assets/image1forBranding.png" class="w-[300px] mt-8" />
+      <img src="/src/assets/image1forBranding.png" class="w-[300px] mt-8" />
     </div>
     <div class="card-tow">
-      <img src="./assets/image2forBranding.png" class="w-[300px] mb-8 rounded-t-[40rem]" />
+      <img src="/src/assets/image2forBranding.png" class="w-[300px] mb-8 rounded-t-[40rem]" />
       <p class="font-light w-[350px] mb-9">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod debitis deleniti libero sunt
         unde aut eaque repellendus.
@@ -41,7 +41,7 @@
       </p>
       <BUtton class="border border-[#Af7452] text-[#Af7452] py-2 px-5">تسوق الان</BUtton>
     </div>
-    <img src="./assets/image1forBranding.png" class="w-[300px] mb-8" />
+    <img src="/src/assets/image1forBranding.png" class="w-[300px] mb-8" />
   </section>
 
   <section class="flex justify-center items-center mt-20 p-10">
